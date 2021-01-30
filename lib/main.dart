@@ -27,7 +27,7 @@ class _HomePageState extends State<HomePage> {
   bool isDownPressed = false;
   int counter = 999;
   var _scaffoldKey = GlobalKey<ScaffoldState>();
-
+  //Variables
   @override
   Widget build(BuildContext context) {
     return Scaffold(
